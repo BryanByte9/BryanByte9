@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi👋
+I"m a software engineering student
 
 <!--
 **BryanByte9/BryanByte9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
