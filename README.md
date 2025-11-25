@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Zeyu Li
 
-I'm a software engineering student at LUT University (Lahti, Finland) with hands-on experience in Android development, machine learning, web technologies, and system design.
+I'm a software engineering student at LUT University (Lahti, Finland).
 
 I enjoy building real applications, understanding how systems work end-to-end, and improving my skills through projects in mobile development, data science, and user-centered design.  
-I'm currently looking for *summer internship opportunities (Software Engineer / Mobile / Full-Stack / Data).
+I'm currently looking for summer internship opportunities (Software Engineer / Mobile / Full-Stack / Data).
 
 ---
 
@@ -23,9 +23,7 @@ I'm currently looking for *summer internship opportunities (Software Engineer / 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
