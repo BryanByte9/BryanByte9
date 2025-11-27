@@ -34,48 +34,12 @@ I'm currently looking for summer internship opportunities (Software Engineer / M
 
 ---
 
-## 📱 Featured Projects
-
-### **📱 Android – Soccer Team Management App**
-A full Android application built with Java, using  
-✔ RecyclerView  
-✔ Generics & Iterators  
-✔ Lambda expressions  
-✔ Sorting & filtering  
-✔ Multiple screens + data models  
-
----
-
-### **🎬 Android – Movie Database App**
-A mobile app fetching movie data via an external API, featuring  
-✔ Async API requests  
-✔ JSON parsing  
-✔ RecyclerView UI  
-✔ Modular architecture  
-
----
-
-### **🤖 Machine Learning / NLP – Smart Systems**
-Projects include:  
-✔ Regression & evaluation (R², MAE)  
-✔ NLP preprocessing (tokenizing, stopwords, lemmatization)  
-✔ Visualization & Python pipelines  
-✔ Balanced dataset processing  
-
----
-
-### **🕸 Web Projects**
-✔ Leaflet map visualizations  
-✔ Frappe.js charts  
-✔ HTML/CSS/JS dynamic pages  
-✔ UI/UX prototypes (paper → digital → high-fidelity)
-
----
-
 ## 🎯 What I'm Learning
-- Advanced machine learning  
-- Full-stack development  
-- Cloud fundamentals  
+
+- Android app development (Java, RecyclerView, API integration)
+- Practical machine learning basics (Python, regression, NLP)
+- Web development fundamentals (HTML, CSS, JavaScript)
+- Data structures, algorithms, and networking concepts
 - Mobile UI/UX design  
 
 ---
