@@ -3,7 +3,7 @@
 I'm a software engineering student at LUT University (Lahti, Finland).
 
 I enjoy building real applications, understanding how systems work end-to-end, and improving my skills through projects in mobile development, data science, and user-centered design.  
-I'm currently looking for summer internship opportunities (Software Engineer / Mobile / Full-Stack / Data).
+I'm currently looking for summer internship opportunities (Mobile / Web / Data) in Finland or Europe.
 
 ---
 
